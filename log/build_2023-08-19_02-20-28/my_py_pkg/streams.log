@@ -1,0 +1,17 @@
+[0.623s] Invoking command in '/home/tyler/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/tyler/ros2_ws/build/my_py_pkg/prefix_override:/home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/tyler/ros2_ws/build/my_py_pkg/build --no-deps install_data
+[0.852s] running develop
+[0.990s] running egg_info
+[0.990s] writing my_py_pkg.egg-info/PKG-INFO
+[0.990s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.991s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.992s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.992s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.994s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.995s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.996s] running build_ext
+[0.997s] Creating /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[0.997s] Installing py_node script to /home/tyler/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.997s] 
+[0.998s] Installed /home/tyler/ros2_ws/build/my_py_pkg
+[0.998s] running install_data
+[1.023s] Invoked command in '/home/tyler/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/tyler/ros2_ws/build/my_py_pkg/prefix_override:/home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/tyler/ros2_ws/build/my_py_pkg/build --no-deps install_data

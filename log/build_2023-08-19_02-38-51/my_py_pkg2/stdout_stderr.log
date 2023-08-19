@@ -1,0 +1,26 @@
+running egg_info
+creating ../../build/my_py_pkg2/my_py_pkg.egg-info
+writing ../../build/my_py_pkg2/my_py_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_py_pkg2/my_py_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/my_py_pkg2/my_py_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/my_py_pkg2/my_py_pkg.egg-info/requires.txt
+writing top-level names to ../../build/my_py_pkg2/my_py_pkg.egg-info/top_level.txt
+writing manifest file '../../build/my_py_pkg2/my_py_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_py_pkg2/my_py_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_py_pkg2/my_py_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tyler/ros2_ws/build/my_py_pkg2/build
+creating /home/tyler/ros2_ws/build/my_py_pkg2/build/lib
+creating /home/tyler/ros2_ws/build/my_py_pkg2/build/lib/my_py_pkg2
+copying my_py_pkg2/my_first_node.py -> /home/tyler/ros2_ws/build/my_py_pkg2/build/lib/my_py_pkg2
+copying my_py_pkg2/__init__.py -> /home/tyler/ros2_ws/build/my_py_pkg2/build/lib/my_py_pkg2
+running install
+running install_lib
+creating /home/tyler/ros2_ws/install/my_py_pkg2/lib/python3.10/site-packages/my_py_pkg2
+copying /home/tyler/ros2_ws/build/my_py_pkg2/build/lib/my_py_pkg2/my_first_node.py -> /home/tyler/ros2_ws/install/my_py_pkg2/lib/python3.10/site-packages/my_py_pkg2
+copying /home/tyler/ros2_ws/build/my_py_pkg2/build/lib/my_py_pkg2/__init__.py -> /home/tyler/ros2_ws/install/my_py_pkg2/lib/python3.10/site-packages/my_py_pkg2
+byte-compiling /home/tyler/ros2_ws/install/my_py_pkg2/lib/python3.10/site-packages/my_py_pkg2/my_first_node.py to my_first_node.cpython-310.pyc
+byte-compiling /home/tyler/ros2_ws/install/my_py_pkg2/lib/python3.10/site-packages/my_py_pkg2/__init__.py to __init__.cpython-310.pyc
+running install_data
+error: can't copy 'resource/my_py_pkg': doesn't exist or not a regular file

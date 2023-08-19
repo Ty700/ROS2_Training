@@ -1,0 +1,3 @@
+[1.373s] Invoking command in '/home/tyler/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/tyler/ros2_ws/build/my_py_pkg/prefix_override:/home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/tyler/ros2_ws/build/my_py_pkg/build
+[1.720s] running develop
+[1.851s] Removing /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
