@@ -1,0 +1,37 @@
+[0.599s] Invoking command in '/home/tyler/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/tyler/ros2_ws/build/my_py_pkg/prefix_override:/home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/tyler/ros2_ws/build/my_py_pkg/build
+[0.871s] running develop
+[1.000s] Removing /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.039s] Invoked command in '/home/tyler/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/tyler/ros2_ws/build/my_py_pkg/prefix_override:/home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/tyler/ros2_ws/build/my_py_pkg/build
+[1.040s] Invoking command in '/home/tyler/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/tyler/ros2_ws/build/my_py_pkg/prefix_override:/home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/tyler/ros2_ws/build/my_py_pkg/build install --record /home/tyler/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
+[1.286s] running egg_info
+[1.287s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.287s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.287s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.287s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.287s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.289s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.289s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.289s] running build
+[1.289s] running build_py
+[1.290s] copying my_py_pkg/smartphone.py -> /home/tyler/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.290s] copying my_py_pkg/robot_news_station.py -> /home/tyler/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.290s] running install
+[1.290s] running install_lib
+[1.291s] creating /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.291s] copying /home/tyler/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/smartphone.py -> /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.292s] copying /home/tyler/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/robot_news_station.py -> /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.292s] copying /home/tyler/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/my_first_node.py -> /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.292s] copying /home/tyler/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.293s] byte-compiling /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/smartphone.py to smartphone.cpython-310.pyc
+[1.293s] byte-compiling /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_news_station.py to robot_news_station.cpython-310.pyc
+[1.293s] byte-compiling /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py to my_first_node.cpython-310.pyc
+[1.293s] byte-compiling /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[1.294s] running install_data
+[1.294s] running install_egg_info
+[1.295s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[1.296s] running install_scripts
+[1.314s] Installing py_node script to /home/tyler/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.315s] Installing robot_news_station script to /home/tyler/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.315s] Installing smartphone script to /home/tyler/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.315s] writing list of installed files to '/home/tyler/ros2_ws/build/my_py_pkg/install.log'
+[1.360s] Invoked command in '/home/tyler/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/tyler/ros2_ws/build/my_py_pkg/prefix_override:/home/tyler/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/tyler/ros2_ws/build/my_py_pkg/build install --record /home/tyler/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
